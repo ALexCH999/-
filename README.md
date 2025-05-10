@@ -35,3 +35,5 @@
 git clone https://github.com/yourusername/logic-calculator.git
 cd logic-calculator
 python logic_calculator.py
+```
+![Image](https://github.com/user-attachments/assets/23cdbaa7-0b82-4d79-9672-42fbb9b47230)
